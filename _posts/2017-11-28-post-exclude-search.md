@@ -1,9 +1,17 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "1316 - 그룹 단어 체커"
+excerpt: ""
 search: false
+
 categories: 
-  - Jekyll
-last_modified_at: 2018-02-19T08:06:00-05:00
+  - BOJ
+tags:
+  - [BOJ, Sliver]
+
+toc: true
+toc_sticky: true
+
+date: 2018-02-14
 ---
 
 This post should not appear in the search index because it has the following YAML Front Matter:
